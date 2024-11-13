@@ -1,2 +1,2 @@
 # MCC_Python1_Info1501_Module1
-Skillcheck
+Skill check
